@@ -93,3 +93,15 @@ Os usuários se conectam e usam aplicativos com base em nuvem pela internet. Exe
 - Os usuários pagam pelo software que utilizam em um modelo de assinatura (licenciamento).
 
 
+## Componentes de Arquitetura do Azure
+### Regiões
+É possível criar recursos em vários lugares do mundo.
+- As regiões são compostas de um ou mais datacenters muito próximos.
+- Elas fornecem flexibilidade e escala para reduzir a latência do cliente.
+- As regiões preservam a residência dos dados com uma oferta abrangente de conformidade.
+
+### Zonas de disponibilidade
+- Fornece proteção contra tempo de inatividade devido a falha do datacenter.
+- Separa fisicamente os datacenters dentro da mesma região.
+- Cada datacenter é equipado com alimentação, resfriamento e rede independentes.
+- Os datacenters são conectados por meio de redes privadas de fibra óptica para reduzir latência.
